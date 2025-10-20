@@ -19,7 +19,7 @@ execute:
     echo: true
 engine: julia
 julia:
-    exeflags: ["+1.10.4"]
+    exeflags: ["+1.11.5"]
 format-links: [pdf, ipynb]
 ---
 
@@ -32,7 +32,7 @@ format-links: [pdf, ipynb]
 ::: {.callout-important icon="false"}
 ### Due Date
 
-Wednesday, 10/16/24, 9:00pm
+Thursday, 10/23/24, 9:00pm
 :::
 
 ::: {.content-visible when-format="html"}
